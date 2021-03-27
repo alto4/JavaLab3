@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/postgresql-9.4-1200.jdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/postgresql-9.4-1200.jdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../apache-tomcat-8.0.18-windows-x64/Tomcat8.0/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
